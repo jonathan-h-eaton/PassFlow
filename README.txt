@@ -8,7 +8,8 @@ CONTENTS OF THIS FILE
 -----------
 DESCRIPTION
 -----------
-This package is a project by Team 96 from CSE 6242 @ Georgia Tech. 
+This package was created for the final project in Data & Visual Analytics @ Georgia Tech by Jonathan Eaton, Serdar Aydinoglu, 
+Wayne Fong, Vigneshwar Perumal, Jackson Schieber, and Enoch Anim-Koranteng.
 The project is about visualizing soccer passing networks. 
 The package has following files: 
 - One html file under "template" folder. 
@@ -18,7 +19,7 @@ The package has following files:
 ------------
 INSTALLATION
 ------------
-Python 3.7 is recommended. 
+Python 3.7 is recommended. The libraries flask, pandas, and numpy must be installed.
 Also, internet connection is required. 
 To setup the code, run "web_app.py" file. 
 After showing "* Running on http://127.0.0.1:5000/", copy and paste the link into a browser. 
