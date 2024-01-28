@@ -1,33 +1,22 @@
-CONTENTS OF THIS FILE
----------------------
-
-* DESCRIPTION
-* INSTALLATION
-* EXECUTION
-
------------
-DESCRIPTION
------------
+# Description
 This package was created for the final project in Data & Visual Analytics @ Georgia Tech by Jonathan Eaton, Serdar Aydinoglu, 
 Wayne Fong, Vigneshwar Perumal, Jackson Schieber, and Enoch Anim-Koranteng.
-The project is about visualizing soccer passing networks. 
-The package has following files: 
-- One html file under "template" folder. 
-- Five CSV files under "static/data" folder. 
-- One Python file in the main folder.
+The project is about visualizing soccer passing networks and predicting most probable passing routes. 
 
-------------
-INSTALLATION
-------------
+For a brief video overview of the app, click [here](https://youtu.be/51xKCuDWBJQ).
+
+For a visual summary of the app, select the PassFlow Poster file.
+
+If you want to run the app yourself, follow the instructions below.
+
+# Installation
 Python 3.7 is recommended. The libraries flask, pandas, and numpy must be installed.
 Also, internet connection is required. 
 To setup the code, run "web_app.py" file. 
 After showing "* Running on http://127.0.0.1:5000/", copy and paste the link into a browser. 
 To ensure best performance, Safari and Chrome are recommended browsers.
 
----------
-EXECUTION
----------
+# Execution
 The app consists of only the home page. 
 1. Click on a team that you would like to visualize. 
 2. The chart will update with all the passes made by the players in light blue and display the best pass route in red. 
