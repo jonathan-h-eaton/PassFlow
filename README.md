@@ -1,7 +1,8 @@
 # Description
 This package was created for the final project in Data & Visual Analytics @ Georgia Tech by Jonathan Eaton, Serdar Aydinoglu, 
 Wayne Fong, Vigneshwar Perumal, Jackson Schieber, and Enoch Anim-Koranteng.
-The project is about visualizing soccer passing networks and predicting most probable passing routes. 
+
+The project is about visualizing soccer passing networks and predicting most probable passing routes. I focused on data mining and cleaning in Python, and other teammates completed the Markov Chain analysis and visualization. 
 
 For a brief video overview of the app, click [here](https://youtu.be/51xKCuDWBJQ).
 
