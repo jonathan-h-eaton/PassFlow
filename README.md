@@ -6,7 +6,7 @@ The project is about visualizing soccer passing networks and predicting most pro
 
 For a brief video overview of the app, click [here](https://youtu.be/51xKCuDWBJQ).
 
-For a visual summary of the app, select the PassFlow Poster file.
+For a written summary of the app, select the PassFlow Poster file.
 
 If you want to run the app yourself, follow the instructions below.
 
@@ -21,4 +21,4 @@ To ensure best performance, Safari and Chrome are recommended browsers.
 The app consists of only the home page. 
 1. Click on a team that you would like to visualize. 
 2. The chart will update with all the passes made by the players in light blue and display the best pass route in red. 
-3. Clicking on the players in the best route will remove that player and generate the next best pass route.
+3. Clicking on a player in the best route will remove that player and generate the next best pass route.
