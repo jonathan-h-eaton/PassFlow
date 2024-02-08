@@ -1,12 +1,12 @@
 # Description
-This package was created for the final project in Data & Visual Analytics @ Georgia Tech by Jonathan Eaton, Serdar Aydinoglu, 
-Wayne Fong, Vigneshwar Perumal, Jackson Schieber, and Enoch Anim-Koranteng.
+### Created for Data & Visual Analytics @ Georgia Tech by Jonathan Eaton, Serdar Aydinoglu, Wayne Fong, Vigneshwar Perumal, Jackson Schieber, and Enoch Anim-Koranteng
+Soccer is by far the most popular sport in the world, and teams are increasingly looking to advanced analytics to gain a competitive advantage. In this project, our team predicts and visualizes soccer passing networks using Python and d3.js. Please note that my role focused on data mining and cleaning in Python, and other teammates completed the Markov Chain analysis and visualization. 
 
-The project is about visualizing soccer passing networks and predicting most probable passing routes. I focused on data mining and cleaning in Python, and other teammates completed the Markov Chain analysis and visualization. 
+The app allows users to see FC Barcelona's most probable passing routes over the course of almost 2 decades. This tool has a number of possible applications. An opposing team could use it to analyze what the most common passing routes are, then use that to shape their defensive formations. They could also see what alternate passing routes FC Barcelona resorts to if a key player is removed from the equation (e.g., they are double-teamed during a given play). This would allow them to create a defensive strategy that is shaped specifically to the passing patterns of their opponents.
 
 For a brief video overview of the app, click [here](https://youtu.be/51xKCuDWBJQ).
 
-For a written summary of the app, select the PassFlow Poster file.
+For a full summary of the app, select the PassFlow Poster file.
 
 If you want to run the app yourself, follow the instructions below.
 
